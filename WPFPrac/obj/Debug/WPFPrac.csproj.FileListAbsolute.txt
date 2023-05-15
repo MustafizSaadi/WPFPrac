@@ -1,0 +1,16 @@
+C:\Users\USER\source\repos\WPFPrac\WPFPrac\obj\Debug\WPFPrac.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\WPFPrac\WPFPrac\obj\Debug\WPFPrac.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\source\repos\WPFPrac\WPFPrac\obj\Debug\MainWindow.g.cs
+C:\Users\USER\source\repos\WPFPrac\WPFPrac\obj\Debug\App.g.cs
+C:\Users\USER\source\repos\WPFPrac\WPFPrac\obj\Debug\WPFPrac_MarkupCompile.cache
+C:\Users\USER\source\repos\WPFPrac\WPFPrac\obj\Debug\WPFPrac_MarkupCompile.lref
+C:\Users\USER\source\repos\WPFPrac\WPFPrac\bin\Debug\WPFPrac.exe.config
+C:\Users\USER\source\repos\WPFPrac\WPFPrac\bin\Debug\WPFPrac.exe
+C:\Users\USER\source\repos\WPFPrac\WPFPrac\bin\Debug\WPFPrac.pdb
+C:\Users\USER\source\repos\WPFPrac\WPFPrac\obj\Debug\MainWindow.baml
+C:\Users\USER\source\repos\WPFPrac\WPFPrac\obj\Debug\WPFPrac.g.resources
+C:\Users\USER\source\repos\WPFPrac\WPFPrac\obj\Debug\WPFPrac.Properties.Resources.resources
+C:\Users\USER\source\repos\WPFPrac\WPFPrac\obj\Debug\WPFPrac.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\WPFPrac\WPFPrac\obj\Debug\WPFPrac.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\WPFPrac\WPFPrac\obj\Debug\WPFPrac.exe
+C:\Users\USER\source\repos\WPFPrac\WPFPrac\obj\Debug\WPFPrac.pdb

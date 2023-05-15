@@ -1,0 +1,16 @@
+C:\Users\USER\source\repos\WPFPrac\WpfRoutedEvents\bin\Debug\WpfRoutedEvents.exe.config
+C:\Users\USER\source\repos\WPFPrac\WpfRoutedEvents\bin\Debug\WpfRoutedEvents.exe
+C:\Users\USER\source\repos\WPFPrac\WpfRoutedEvents\bin\Debug\WpfRoutedEvents.pdb
+C:\Users\USER\source\repos\WPFPrac\WpfRoutedEvents\obj\Debug\WpfRoutedEvents.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\WPFPrac\WpfRoutedEvents\obj\Debug\WpfRoutedEvents.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\source\repos\WPFPrac\WpfRoutedEvents\obj\Debug\MainWindow.g.cs
+C:\Users\USER\source\repos\WPFPrac\WpfRoutedEvents\obj\Debug\App.g.cs
+C:\Users\USER\source\repos\WPFPrac\WpfRoutedEvents\obj\Debug\WpfRoutedEvents_MarkupCompile.cache
+C:\Users\USER\source\repos\WPFPrac\WpfRoutedEvents\obj\Debug\WpfRoutedEvents_MarkupCompile.lref
+C:\Users\USER\source\repos\WPFPrac\WpfRoutedEvents\obj\Debug\MainWindow.baml
+C:\Users\USER\source\repos\WPFPrac\WpfRoutedEvents\obj\Debug\WpfRoutedEvents.g.resources
+C:\Users\USER\source\repos\WPFPrac\WpfRoutedEvents\obj\Debug\WpfRoutedEvents.Properties.Resources.resources
+C:\Users\USER\source\repos\WPFPrac\WpfRoutedEvents\obj\Debug\WpfRoutedEvents.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\WPFPrac\WpfRoutedEvents\obj\Debug\WpfRoutedEvents.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\WPFPrac\WpfRoutedEvents\obj\Debug\WpfRoutedEvents.exe
+C:\Users\USER\source\repos\WPFPrac\WpfRoutedEvents\obj\Debug\WpfRoutedEvents.pdb

@@ -1,0 +1,1 @@
+A wordpad application created utilizing WPF with spell checking functionality.

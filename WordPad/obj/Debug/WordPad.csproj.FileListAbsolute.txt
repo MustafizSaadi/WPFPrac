@@ -1,0 +1,16 @@
+C:\Users\USER\source\repos\WPFPrac\WordPad\obj\Debug\WordPad.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\WPFPrac\WordPad\obj\Debug\WordPad.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\source\repos\WPFPrac\WordPad\obj\Debug\MainWindow.g.cs
+C:\Users\USER\source\repos\WPFPrac\WordPad\obj\Debug\App.g.cs
+C:\Users\USER\source\repos\WPFPrac\WordPad\obj\Debug\WordPad_MarkupCompile.cache
+C:\Users\USER\source\repos\WPFPrac\WordPad\obj\Debug\WordPad_MarkupCompile.lref
+C:\Users\USER\source\repos\WPFPrac\WordPad\bin\Debug\WordPad.exe.config
+C:\Users\USER\source\repos\WPFPrac\WordPad\bin\Debug\WordPad.exe
+C:\Users\USER\source\repos\WPFPrac\WordPad\bin\Debug\WordPad.pdb
+C:\Users\USER\source\repos\WPFPrac\WordPad\obj\Debug\MainWindow.baml
+C:\Users\USER\source\repos\WPFPrac\WordPad\obj\Debug\WordPad.g.resources
+C:\Users\USER\source\repos\WPFPrac\WordPad\obj\Debug\WordPad.Properties.Resources.resources
+C:\Users\USER\source\repos\WPFPrac\WordPad\obj\Debug\WordPad.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\WPFPrac\WordPad\obj\Debug\WordPad.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\WPFPrac\WordPad\obj\Debug\WordPad.exe
+C:\Users\USER\source\repos\WPFPrac\WordPad\obj\Debug\WordPad.pdb

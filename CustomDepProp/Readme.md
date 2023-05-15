@@ -1,0 +1,1 @@
+In this project, .NET custom dependency property is practiced.
